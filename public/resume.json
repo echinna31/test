@@ -126,8 +126,8 @@
             "website": "",
             "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details."
              "image": {
-                "modal": "/public/images/portfolio/modal/class.png",
-                "thumb": "/public/images/portfolio/thumb/class.jpg"
+                "modal": "/public/images/class.png",
+                "thumb": "/public/images/class.png"
             },
             "keywords": [
                 "React",
