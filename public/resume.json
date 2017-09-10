@@ -1,120 +1,208 @@
 {
     "basics": {
-        "name": "<FULL_NAME>",
-        "label": "<PROFESSION>",
-        "picture": "<PHOTO>",
-        "email": "<EMAIL_ADDRESS>",
-        "phone": "<PHONE_NUMBER>",
-        "website": "<WEBSITE>",
+        "name": "Manasa",
+        "label": "Front End Developer",
+        "picture": "",
+        "email": "kasammansi@gmail.com",
+        "phone": "",
+        "website": "",
         "summary": [
-            "<SUMMARY_1>",
-            "<SUMMARY_2>",
-            "<SUMMARY_3>"
-        ],
+           "Having 3 years of experience in software development includes Analysis, Design and Development of quality software for Standalone Applications and Web-based applications",
+
+           " Worked on developing professional, responsive web based User Interface (UI) to provide the best User Experience using HTML5, CSS3, Bootstrap, Ionic Framework, MongoDb, JavaScript, ES5/6, JQuery , JSON ,React JS, AngularJS 1.x"  ],
         "location": {
-            "address": "<ADDRESS>",
-            "postalCode": "<POSTAL_CODE>",
-            "city": "<CITY>",
-            "countryCode": "<COUNTRY>",
-            "region": "<REGION>"
+            "address": "",
+            "postalCode": "",
+            "city": "Greer",
+            "countryCode": "United States",
+            "region": "SC"
         },
         "profiles": [
             {
-                "network": "<NETWORK>",
-                "username": "<USERNAME>",
-                "url": "<URL>"
+                "network": "Phone",
+                "username": "kasammanasi",
+                "url": ""
+            },
+            {
+                "network": "Email",
+                "username": "kasammansi@gmail.com",
+                "url": ""
+            },
+            {
+                "network": "LinkedIn",
+                "username": "manasa",
+                "url": "https://www.linkedin.com/in/"
             }
         ]
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "summary": "<SUMMARY>",
+            "company": "Vodafone",
+            "position": "Web Developer",
+            "website": "https://www.nixplay.com/",
+            "startDate": "2014-12-05",
+            "endDate": "2015-08-12",
+            "summary": "Chennai, India",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
-            ]
-        }
-    ],
-    "volunteer": [
+                "Involved in developing responsive web based user interfaces using HTML, CSS, JavaScript, Angular JS and JQuery and various new technologies to design the predetermined designs by the company. ",
+               "Provided support in companies existing applications"
+                   ]
+        },
         {
-            "organization": "<ORGANIZATION_NAME>",
-            "position": "<POSITION>",
-            "website": "<WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "summary": "<SUMMARY>",
+            "company": "Bank of Baroda",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2014-03-02",
+            "endDate": "2014-11-01",
+            "summary": "Pune, India",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+          "Implemented responsive web design and mobile friendly design using Ionic framework; fully utilized its JavaScript UI library, including navigation, modal, slide box, scroll, action sheet and more and AngularJS",
+            "Developed web pages with functionalities like login, register, forget password, Email, Filters using Java Script, JQuery and HTML."]
+        },
+        {
+            "company": "TAGG (Community Portal)",
+            "position": "Freelancer",
+            "website": "http://www.taggsc.org",
+            "startDate": "2016-01-01",
+            "endDate": "Present",
+            "summary": "Non-profit organization",
+            "highlights": [
+                "Designed and developed a responsive webpage from scratch which is compatible in all the devices and also used g-zip compression, minifying techniques in order to load the page faster.",
+                "Used MongoDb to save the feedback details and nodejs services to perform CRUD operations."
             ]
+        },
+        {
+            "company": "Greenville Badminton Club",
+            "position": "Freelancer",
+            "website": "http://www.greenvillebadmintonclub.com/",
+            "startDate": "2016-11-01",
+            "endDate": "Present",
+            "summary": "Non-profit organization",
+            "highlights": [
+                "Rewrote the whole website from asp.net to AngularJs and  Bootstrap 4",
+                "Developed and maintained the website"
+            ]
+        },
+        {
+            "company": "Classlink",
+            "position": "Student",
+            "website": "",
+            "startDate": "2016-08-12",
+            "endDate": "2017-02-15",
+            "summary": "Academic project",
+            "highlights": [
+                "Involved in designing, developing and testing the web application by using the HTML5, CSS3, Bootstrap, ES6 and React.JS."       ,
+            "Built the application on React JS Virtual Dom and React views, rendering using components."]
         }
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
-            "studyType": "<STUDY_TYPE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
-            "summary": "<SUMMARY>",
-            "courses": [
-                "<COURSE_1>",
-                "<COURSE_2>",
-                "<COURSE_3>"
-            ]
-        }
-    ],
-    "awards": [
+            "institution": "Wilmington University",
+            "area": "Masters in Information Assurance ",
+            "studyType": "Masters",
+            "startDate": "2015-08-01",
+            "endDate": "2017-05-14",
+            "gpa": "3.5",
+            "summary": "Delaware,US"
+        },
         {
-            "title": "<AWARD_TITLE>",
-            "date": "<DATE>",
-            "awarder": "<AWARDER>",
-            "summary": "<SUMMARY>"
+            "institution": "Jawaharlal Nehru Technological University",
+            "area": "Bachelors in Technology in Electronics and Communication Engineering,",
+            "studyType": "Bachelors",
+            "startDate": "2011-08-21",
+            "endDate": "2014-04-29",
+            "gpa": "3.4",
+            "summary": "Hyderabad,India"
+
         }
     ],
+
     "projects": [
         {
-            "name": "<PUBLICATION_NAME>",
-            "publisher": "<PUBLISHER>",
-            "category": "<CATEGORY>",
-            "releaseDate": "<RELEASE_DATE>",
-            "website": "<WEBSITE>",
-            "summary": "<SUMMARY>",
-            "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+            "name": "Classlink",
+            "publisher": "",
+            "category": "Web",
+            "releaseDate": "",
+            "website": "",
+            "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details.",
+             "image": {
+                "modal": "/public/images/portfolio/modal/class.png",
+                "thumb": "/public/images/portfolio/thumb/class.png"
             },
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
+                "React",
+                "JavaScript",
+                "jQuery",
+                "MySQL"
             ]
         }
     ],
     "skills": [
         {
-            "title": "<DESCRIPTION_TITLE>",
+            "title": "Programming Languages",
             "description": [
-                "<DESCRIPTION_1>",
-                "<DESCRIPTION_2>",
-                "<DESCRIPTION_3>"
+                "Worked primarily with JavaScript ( AngularJs,ReactJs,JQuery etc) and front end technologies.",
+                "Intrested in developing responsive mobile and web applications."
             ],
             "skillDetails": [
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
+                    "name": "JavaScript (React,AngularJS,JQuery etc)",
+                    "level": "95",
                     "keywords": [
-                        "<KEYWORD_1>",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
+                        "programming",
+                        "angularjs",
+                        "reactjs",
+                        "jquery",
+                        "javascript",
+                        "NodeJS"
+                    ]
+                },
+                {
+                    "name": "Responsive UI (HTML5, CSS3, Bootstrap etc)",
+                    "level": "90",
+                    "keywords": [
+                        "UI"
+                    ]
+                },
+                {
+                    "name": "UX",
+                    "level": "85",
+                    "keywords": [
+                        "UX"
+                    ]
+                },
+
+                {
+                    "name": "Java",
+                    "level": "75",
+                    "keywords": [
+                        "Core Java"
+                    ]
+                }
+
+            ]
+        },
+        {
+            "title": "Database Systems",
+            "description": [
+                "Experienced in both SQL and NoSQL."
+            ],
+            "skillDetails": [
+
+                {
+                    "name": "MongoDB",
+                    "level": "90",
+                    "keywords": [
+                        "database",
+                        "nosql"
+                    ]
+                },
+                {
+                    "name": "MySQL",
+                    "level": "70",
+                    "keywords": [
+                        "database",
+                        "sql"
                     ]
                 }
             ]
@@ -122,26 +210,57 @@
     ],
     "languages": [
         {
-            "name": "<LANGUAGE_NAME>",
-            "level": "<LANGUAGE_LEVEL>"
+            "name": "English",
+            "level": "100"
+        },
+        {
+            "name": "Telugu",
+            "level": "90"
         }
     ],
     "interests": [
         {
-            "name": "<INTEREST_NAME>",
-            "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
-            ]
+            "name": "Cosmology",
+            "keywords": []
+        },
+        {
+            "name": "Media Creation",
+            "keywords": []
+        },
+        {
+            "name": "New Technologies",
+            "keywords": []
+        },
+        {
+            "name": "Psychology",
+            "keywords": []
+        },
+        {
+            "name": "Startups",
+            "keywords": []
+        },
+        {
+            "name": "Spirituality",
+            "keywords": []
         }
     ],
     "references": [
         {
-            "name": "<REFERENCE_NAME>",
-            "position": "<POSITION>",
-            "company": "<COMPANY>",
-            "reference": "<SUMMARY>"
-        }
+            "name": "Joel Pitt",
+            "position": "Theodore Roosevelt",
+            "company": "",
+            "reference": "Believe you can and you're halfway there"
+        },
+        {
+            "name": "Thomas A. Edison",
+            "position": "",
+            "company": "",
+            "reference": "I have not failed I've just found 10000 ways that won't work"
+        },
+        {
+            "name": "",
+            "position": "",
+            "company": "",
+            "reference": "Work hard in silence. Let success make the noise"}
     ]
 }
