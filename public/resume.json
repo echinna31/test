@@ -1,0 +1,178 @@
+{
+    "basics": {
+        "name": "Manasa",
+        "label": "Front End Developer",
+        "picture": "<PHOTO>",
+        "email": "rmanasa649@gmail.com",
+        "phone": "864-907-1699",
+        "website": "",
+        "summary": [
+            "Having 3 years of experience in software development includes Analysis, Design and Development of quality software for Standalone Applications and Web-based applications",
+            "Worked on developing professional, responsive web based User Interface (UI) to provide the best User Experience using HTML5, CSS3, Bootstrap, Ionic Framework, MongoDb, JavaScript, ES5/6, JQuery , JSON ,React JS, AngularJS 1.x",
+            ""
+        ],
+        "location": {
+            "address": "South Carolina",
+            "postalCode": "29651",
+            "city": "Greer,SC",
+            "countryCode": "US",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "<NETWORK>",
+                "username": "<USERNAME>",
+                "url": "<URL>"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Vodafone",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2014-11-29",
+            "endDate": "2015-07-03",
+            "summary": "Vodafone is a Telematics company and the project deals with the business to business oriented services to provide the devices for large group of people and updating can be done for developing web based user interfaces using HTML, CSS, JavaScript, Angular JS and JQuery and various new technologies to design the predetermined designs by the company. The project is to Develop and design the various screens and its architecture in accordance to UI Specs following client branding standards.",
+            "highlights": [
+                "As a UI Developer, developed two different Web-based applications and managed in developing of Account landing page, Account summary/overview and Login page.",
+                "Built Web pages that are more user-interactive using JQuery plugins for Drag and Drop, AutoComplete, AJAX, CSS3, JSON, AngularJS, Node Js, JavaScript and Bootstrap.",
+                "Participated in meetings with the end-clients to develop layout, color scheme for the web page and implemented them with the help of HTML5, CSS3, Bootstrap and JavaScript."
+            ]
+        },   {
+            "company": "Bank of Baroda",
+            "position": "UI Developer",
+            "website": "",
+            "startDate": "2014-03-11",
+            "endDate": "2014-11-08>",
+            "summary": "Bank of Baroda is fully leverage their online channel with proven, comprehensive online financial applications including account funding, inter-institution funds transfer, data consolidation and person-to-person payments. My role is to design, develop and implementation of complex multi-tier systems with Web front end using HTML5, CSS3, Ajax, Angular JS, JSON technologies",
+            "highlights": [
+                "Built Rich Prototypes and Applications using HTML5, CSS3, JavaScript, JQuery, Ajax, JSON, Angular.js, Backbone.js and Bootstrap with MySQL database.",
+                "Developed web pages with functionalities like login, register, forget password, Email, Filters using Java Script, JQuery and HTML.",
+                "Implemented responsive web design and mobile friendly design using Ionic framework; fully utilized its JavaScript UI library, including navigation, modal, slide box, scroll, action sheet and more and AngularJS"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "TAGG (Community Portal) as a Freelancer",
+            "position": "Web Developer",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Wilmington University",
+            "area": "Masters in Information Assurance",
+            "studyType": "",
+            "startDate": "2015-08-09",
+            "endDate": "May2017",
+            "gpa": "3.5",
+            "summary": "",
+            "courses": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "<AWARD_TITLE>",
+            "date": "<DATE>",
+            "awarder": "<AWARDER>",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "<Classlink>",
+            "publisher": "",
+            "category": "Non Profit",
+            "releaseDate": "<2017-02-01>",
+            "website": "",
+            "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details. ",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages ",
+            "description": [
+                "Worked primarily with HTML, HTML 5, XHTML, Bootstrap,  XML, JavaScript, AJAX, JQuery, JSON, CSS3, React JS, AngularJS 1,2.",
+                "",	
+                ""
+            ],	
+            "skillDetails": [
+                {
+                    "name": "<SKILL_NAME>",
+                    "level": "<SKILL_LEVEL>",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        },
+{
+            "title": "Database Systems ",
+            "description": [
+                "Experience in both SQL and NoSQL, having worked in companies making use of MongoDB.",
+                "ORACLE 11g/10g/9i, SQL SERVER 2012/2008 R2/2008, MYSQL",
+                ""
+            ],	
+            "skillDetails": [
+                {
+                    "name": "<SKILL_NAME>",
+                    "level": "<SKILL_LEVEL>",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "<English>",
+            "level": ""
+        }
+    ],
+    "interests": [
+        {
+            "name": "<INTEREST_NAME>",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "<REFERENCE_NAME>",
+            "position": "<POSITION>",
+            "company": "<COMPANY>",
+            "reference": "<SUMMARY>"
+        }
+    ]
+}
