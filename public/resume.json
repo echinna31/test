@@ -2,27 +2,36 @@
     "basics": {
         "name": "Manasa",
         "label": "Front End Developer",
-        "picture": "<PHOTO>",
-        "email": "rmanasa649@gmail.com",
-        "phone": "864-907-1699",
+        "picture": "",
+        "email": "kasammansi@gmail.com",
+        "phone": "",
         "website": "",
         "summary": [
-            "Having 3 years of experience in software development includes Analysis, Design and Development of quality software for Standalone Applications and Web-based applications",
-            "Worked on developing professional, responsive web based User Interface (UI) to provide the best User Experience using HTML5, CSS3, Bootstrap, Ionic Framework, MongoDb, JavaScript, ES5/6, JQuery , JSON ,React JS, AngularJS 1.x",
-            ""
-        ],
+           "Having 3 years of experience in software development includes Analysis, Design and Development of quality software for Standalone Applications and Web-based applications",
+
+           " Worked on developing professional, responsive web based User Interface (UI) to provide the best User Experience using HTML5, CSS3, Bootstrap, Ionic Framework, MongoDb, JavaScript, ES5/6, JQuery , JSON ,React JS, AngularJS 1.x"  ],
         "location": {
-            "address": "South Carolina",
-            "postalCode": "29651",
-            "city": "Greer,SC",
-            "countryCode": "US",
-            "region": ""
+            "address": "",
+            "postalCode": "",
+            "city": "Greer",
+            "countryCode": "United States",
+            "region": "SC"
         },
         "profiles": [
             {
-                "network": "<NETWORK>",
-                "username": "<USERNAME>",
-                "url": "<URL>"
+                "network": "Phone",
+                "username": "kasammanasi",
+                "url": ""
+            },
+            {
+                "network": "Email",
+                "username": "kasammansi@gmail.com",
+                "url": ""
+            },
+            {
+                "network": "LinkedIn",
+                "username": "manasa",
+                "url": "https://www.linkedin.com/in/"
             }
         ]
     },
@@ -30,122 +39,170 @@
         {
             "company": "Vodafone",
             "position": "Web Developer",
-            "website": "",
-            "startDate": "2014-11-29",
-            "endDate": "2015-07-03",
-            "summary": "Vodafone is a Telematics company and the project deals with the business to business oriented services to provide the devices for large group of people and updating can be done for developing web based user interfaces using HTML, CSS, JavaScript, Angular JS and JQuery and various new technologies to design the predetermined designs by the company. The project is to Develop and design the various screens and its architecture in accordance to UI Specs following client branding standards.",
+            "website": "https://www.nixplay.com/",
+            "startDate": "2014-12-05",
+            "endDate": "2015-08-12",
+            "summary": "Chennai, India",
             "highlights": [
-                "As a UI Developer, developed two different Web-based applications and managed in developing of Account landing page, Account summary/overview and Login page.",
-                "Built Web pages that are more user-interactive using JQuery plugins for Drag and Drop, AutoComplete, AJAX, CSS3, JSON, AngularJS, Node Js, JavaScript and Bootstrap.",
-                "Participated in meetings with the end-clients to develop layout, color scheme for the web page and implemented them with the help of HTML5, CSS3, Bootstrap and JavaScript."
-            ]
-        },   {
-            "company": "Bank of Baroda",
-            "position": "UI Developer",
-            "website": "",
-            "startDate": "2014-03-11",
-            "endDate": "2014-11-08>",
-            "summary": "Bank of Baroda is fully leverage their online channel with proven, comprehensive online financial applications including account funding, inter-institution funds transfer, data consolidation and person-to-person payments. My role is to design, develop and implementation of complex multi-tier systems with Web front end using HTML5, CSS3, Ajax, Angular JS, JSON technologies",
-            "highlights": [
-                "Built Rich Prototypes and Applications using HTML5, CSS3, JavaScript, JQuery, Ajax, JSON, Angular.js, Backbone.js and Bootstrap with MySQL database.",
-                "Developed web pages with functionalities like login, register, forget password, Email, Filters using Java Script, JQuery and HTML.",
-                "Implemented responsive web design and mobile friendly design using Ionic framework; fully utilized its JavaScript UI library, including navigation, modal, slide box, scroll, action sheet and more and AngularJS"
-            ]
-        }
-    ],
-    "volunteer": [
+                "Involved in developing responsive web based user interfaces using HTML, CSS, JavaScript, Angular JS and JQuery and various new technologies to design the predetermined designs by the company. ",
+               "Provided support in companies existing applications"
+                   ]
+        },
         {
-            "organization": "TAGG (Community Portal) as a Freelancer",
+            "company": "Bank of Baroda",
             "position": "Web Developer",
-            "website": "<WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "summary": "<SUMMARY>",
+            "website": "",
+            "startDate": "2014-03-02",
+            "endDate": "2014-11-01",
+            "summary": "Pune, India",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+          "Implemented responsive web design and mobile friendly design using Ionic framework; fully utilized its JavaScript UI library, including navigation, modal, slide box, scroll, action sheet and more and AngularJS",
+            "Developed web pages with functionalities like login, register, forget password, Email, Filters using Java Script, JQuery and HTML."]
+        },
+        {
+            "company": "TAGG (Community Portal)",
+            "position": "Freelancer",
+            "website": "http://www.taggsc.org",
+            "startDate": "2016-01-01",
+            "endDate": "Present",
+            "summary": "Non-profit organization",
+            "highlights": [
+                "Designed and developed a responsive webpage from scratch which is compatible in all the devices and also used g-zip compression, minifying techniques in order to load the page faster.",
+                "Used MongoDb to save the feedback details and nodejs services to perform CRUD operations."
             ]
+        },
+        {
+            "company": "Greenville Badminton Club",
+            "position": "Freelancer",
+            "website": "http://www.greenvillebadmintonclub.com/",
+            "startDate": "2016-11-01",
+            "endDate": "Present",
+            "summary": "Non-profit organization",
+            "highlights": [
+                "Rewrote the whole website from asp.net to AngularJs and  Bootstrap 4",
+                "Developed and maintained the website"
+            ]
+        },
+        {
+            "company": "Classlink",
+            "position": "Student",
+            "website": "",
+            "startDate": "2016-08-12",
+            "endDate": "2017-02-15",
+            "summary": "Academic project",
+            "highlights": [
+                "Involved in designing, developing and testing the web application by using the HTML5, CSS3, Bootstrap, ES6 and React.JS."       ,
+            "Built the application on React JS Virtual Dom and React views, rendering using components."]
         }
     ],
     "education": [
         {
             "institution": "Wilmington University",
-            "area": "Masters in Information Assurance",
-            "studyType": "",
-            "startDate": "2015-08-09",
-            "endDate": "May2017",
+            "area": "Masters in Information Assurance ",
+            "studyType": "Masters",
+            "startDate": "2015-08-01",
+            "endDate": "2017-05-14",
             "gpa": "3.5",
-            "summary": "",
-            "courses": [
-                "",
-                "",
-                ""
-            ]
-        }
-    ],
-    "awards": [
+            "summary": "Delaware,US"
+        },
         {
-            "title": "<AWARD_TITLE>",
-            "date": "<DATE>",
-            "awarder": "<AWARDER>",
-            "summary": "<SUMMARY>"
+            "institution": "Jawaharlal Nehru Technological University",
+            "area": "Bachelors in Technology in Electronics and Communication Engineering,",
+            "studyType": "Bachelors",
+            "startDate": "2011-08-21",
+            "endDate": "2014-04-29",
+            "gpa": "3.4",
+            "summary": "Hyderabad,India"
+
         }
     ],
+
     "projects": [
         {
-            "name": "<Classlink>",
+            "name": "Classlink",
             "publisher": "",
-            "category": "Non Profit",
-            "releaseDate": "<2017-02-01>",
+            "category": "Web",
+            "releaseDate": "",
             "website": "",
-            "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details. ",
-            "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+            "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details."
+             "image": {
+                "modal": "/public/images/portfolio/modal/class.png",
+                "thumb": "/public/images/portfolio/thumb/class.jpg"
             },
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
+                "React",
+                "JavaScript",
+                "jQuery",
+                "MySQL"
             ]
         }
     ],
     "skills": [
         {
-            "title": "Programming Languages ",
+            "title": "Programming Languages",
             "description": [
-                "Worked primarily with HTML, HTML 5, XHTML, Bootstrap,  XML, JavaScript, AJAX, JQuery, JSON, CSS3, React JS, AngularJS 1,2.",
-                "",	
-                ""
-            ],	
+                "Worked primarily with JavaScript ( AngularJs,ReactJs,JQuery etc) and front end technologies.",
+                "Intrested in developing responsive mobile and web applications."
+            ],
             "skillDetails": [
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
+                    "name": "JavaScript (React,AngularJS,JQuery etc)",
+                    "level": "95",
                     "keywords": [
-                        "<KEYWORD_1>",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
+                        "programming",
+                        "angularjs",
+                        "reactjs",
+                        "jquery",
+                        "javascript",
+                        "NodeJS"
+                    ]
+                },
+                {
+                    "name": "Responsive UI (HTML5, CSS3, Bootstrap etc)",
+                    "level": "90",
+                    "keywords": [
+                        "UI"
+                    ]
+                },
+                {
+                    "name": "UX",
+                    "level": "85",
+                    "keywords": [
+                        "UX"
+                    ]
+                },
+
+                {
+                    "name": "Java",
+                    "level": "75",
+                    "keywords": [
+                        "Core Java"
                     ]
                 }
+
             ]
         },
-{
-            "title": "Database Systems ",
+        {
+            "title": "Database Systems",
             "description": [
-                "Experience in both SQL and NoSQL, having worked in companies making use of MongoDB.",
-                "ORACLE 11g/10g/9i, SQL SERVER 2012/2008 R2/2008, MYSQL",
-                ""
-            ],	
+                "Experienced in both SQL and NoSQL."
+            ],
             "skillDetails": [
+
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
+                    "name": "MongoDB",
+                    "level": "90",
                     "keywords": [
-                        "<KEYWORD_1>",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
+                        "database",
+                        "nosql"
+                    ]
+                },
+                {
+                    "name": "MySQL",
+                    "level": "70",
+                    "keywords": [
+                        "database",
+                        "sql"
                     ]
                 }
             ]
@@ -153,26 +210,57 @@
     ],
     "languages": [
         {
-            "name": "<English>",
-            "level": ""
+            "name": "English",
+            "level": "100"
+        },
+        {
+            "name": "Telugu",
+            "level": "90"
         }
     ],
     "interests": [
         {
-            "name": "<INTEREST_NAME>",
-            "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
-            ]
+            "name": "Cosmology",
+            "keywords": []
+        },
+        {
+            "name": "Media Creation",
+            "keywords": []
+        },
+        {
+            "name": "New Technologies",
+            "keywords": []
+        },
+        {
+            "name": "Psychology",
+            "keywords": []
+        },
+        {
+            "name": "Startups",
+            "keywords": []
+        },
+        {
+            "name": "Spirituality",
+            "keywords": []
         }
     ],
     "references": [
         {
-            "name": "<REFERENCE_NAME>",
-            "position": "<POSITION>",
-            "company": "<COMPANY>",
-            "reference": "<SUMMARY>"
-        }
+            "name": "Joel Pitt",
+            "position": "Theodore Roosevelt",
+            "company": "",
+            "reference": "Believe you can and you're halfway there"
+        },
+        {
+            "name": "Thomas A. Edison",
+            "position": "",
+            "company": "",
+            "reference": "I have not failed I've just found 10000 ways that won't work"
+        },
+        {
+            "name": "",
+            "position": "",
+            "company": "",
+            "reference": "Work hard in silence. Let success make the noise"}
     ]
 }
