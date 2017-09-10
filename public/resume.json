@@ -126,8 +126,8 @@
             "website": "",
             "summary": "This app will help the students to access the course catalogue, view schedules, emergency contact information, and campus map and event details.",
              "image": {
-                "modal": "/public/images/portfolio/modal/class.png",
-                "thumb": "/public/images/portfolio/thumb/class.png"
+                "modal": "/public/images/class.png",
+                "thumb": "/public/images/class.png"
             },
             "keywords": [
                 "React",
@@ -246,8 +246,8 @@
     ],
     "references": [
         {
-            "name": "Joel Pitt",
-            "position": "Theodore Roosevelt",
+            "name": "Theodore Roosevelt",
+            "position": "",
             "company": "",
             "reference": "Believe you can and you're halfway there"
         },
